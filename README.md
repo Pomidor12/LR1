@@ -24,3 +24,6 @@
 <img width="653" height="558" alt="image" src="https://github.com/user-attachments/assets/e15f7872-c3a0-47f2-9468-5bb427253375" />
 
 7. Далее запускаем стек через docker-copmose <img width="819" height="224" alt="image" src="https://github.com/user-attachments/assets/60c0e60a-f6b5-46ce-afea-5cd8d4497fe4" />
+
+## Вывод: 
+### Я научился работать с ПО Docker для автоматизации развертывания и управления приложений
